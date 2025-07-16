@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+openpyxl #engine for  py to read and write excel files
